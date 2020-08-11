@@ -3,8 +3,8 @@ package alex2;
 public class Alex3 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("Alex unutulmaz bir efsanedir.");
+		System.out.println("He is number the '10'.");
 	}
 
 }
