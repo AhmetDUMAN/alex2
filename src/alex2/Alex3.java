@@ -7,12 +7,8 @@ public class Alex3 {
 		System.out.println("He is number the '10'.");
 		System.out.println("remote deÄŸiÅŸiklik");
 		System.out.println("Hocam sizi bekliyorum evet.");
-<<<<<<< HEAD
 		System.out.println("Çakışma - hoca");
-=======
-		System.out.println("Ã‡akÄ±ÅŸma - hamza hoca");
 		
->>>>>>> refs/remotes/origin/master
 	}
 
 }
