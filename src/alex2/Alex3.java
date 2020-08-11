@@ -7,6 +7,7 @@ public class Alex3 {
 		System.out.println("He is number the '10'.");
 		System.out.println("remote değişiklik");
 		System.out.println("Hocam sizi bekliyorum evet.");
+		System.out.println("Çakışma - hamza hoca");
 		
 	}
 
